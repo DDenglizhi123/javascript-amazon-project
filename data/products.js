@@ -656,5 +656,36 @@ const products = [
       "apparel",
       "mens"
     ]
+  },
+  {
+    id: "id1",
+    image: "images/products/backpack.jpg",
+    name: "BaoBao",
+    rating: {
+      stars: 5,
+      count: 142
+    },
+    priceCents: 7522,
+    keywords: [
+      "sweaters",
+      "hoodies",
+      "apparel",
+      "mens"
+    ]
+  },{
+    id: "id2",
+    image: "images/products/umbrella.jpg",
+    name: "Yushan",
+    rating: {
+      stars: 4,
+      count: 12
+    },
+    priceCents: 1154,
+    keywords: [
+      "sweaters",
+      "hoodies",
+      "apparel",
+      "mens"
+    ]
   }
 ];
